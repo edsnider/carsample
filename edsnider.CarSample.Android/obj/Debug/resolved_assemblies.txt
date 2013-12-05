@@ -1,0 +1,7 @@
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Android\bin\Debug\edsnider.CarSample.Android.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Portable.MvvmLightLibs.4.2.30.1\lib\portable-net45+sl5+wp8+win8\GalaSoft.MvvmLight.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Portable.MvvmLightLibs.4.2.30.1\lib\portable-net45+sl5+wp8+win8\GalaSoft.MvvmLight.Extras.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Portable.CommonServiceLocator.1.2.2\lib\portable-net4+sl4+wp7+win8\Microsoft.Practices.ServiceLocation.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Microsoft.Bcl.1.1.6\lib\portable-net40+win8\System.IO.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Microsoft.Bcl.1.1.6\lib\portable-net40+win8\System.Runtime.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\packages\Microsoft.Bcl.1.1.6\lib\portable-net40+win8\System.Threading.Tasks.dll

@@ -1,0 +1,14 @@
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\edsnider.CarSample.Core.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\edsnider.CarSample.Core.pdb
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\obj\Debug\edsnider.CarSample.Core.csprojResolveAssemblyReference.cache
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\obj\Debug\edsnider.CarSample.Core.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\obj\Debug\edsnider.CarSample.Core.pdb
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\Newtonsoft.Json.dll
+c:\users\552239\documents\visual studio 2013\Projects\edsnider.carsample\edsnider.CarSample.Core\bin\Debug\Newtonsoft.Json.xml
