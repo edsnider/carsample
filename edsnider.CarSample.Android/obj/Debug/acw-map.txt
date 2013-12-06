@@ -1,5 +1,0 @@
-edsnider.CarSample.Android.Adapters.ObservableAdapter`1;edsnider.carsample.android.adapters.ObservableAdapter_1
-edsnider.CarSample.Android.Adapters.CarsAdapter;edsnider.carsample.android.adapters.CarsAdapter
-edsnider.CarSample.Android.CarsTabActivity;edsnider.carsample.android.CarsTabActivity
-edsnider.CarSample.Android.MainActivity;edsnider.carsample.android.MainActivity
-edsnider.CarSample.Android.OtherTabActivity;edsnider.carsample.android.OtherTabActivity
